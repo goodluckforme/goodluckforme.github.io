@@ -16,7 +16,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: '马齐'
 NickName: '码小齐'
-webtitle: 'https://blog.csdn.net/qq_20330595'
+webtitle: '马小齐的博客新家'
 bio: '/assets/img/mq_bio.png'
 about: true
 aboutyou: '我是一只小小鸟'
@@ -27,7 +27,7 @@ SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:much19940917@gmail.com'
   weixin: '/assets/img/mq_weixin.png' # 你的微信二维码存放的地址
-  qq: '/assets/img/mq_qq.png' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  qq: '/assets/img/mq_qq.jpg' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://github.com/goodluckforme'
   Codepen: ''
   weibo: ''
