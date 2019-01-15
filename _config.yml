@@ -17,7 +17,7 @@ author: true
 name: '马齐'
 NickName: '码小齐'
 webtitle: '马小齐的博客新家'
-bio: '/assets/img/mq_bio.png'
+bio: ''
 about: true
 aboutyou: '我是一只小小鸟'
 portraits: '/assets/profile.jpeg' # your portraits image file path
